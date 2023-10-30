@@ -413,6 +413,16 @@
         width: 60%;
         margin: -11% 0 0 22%;
     }
+
+    .menubars {
+        list-style: none;
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        gap: 25px;
+        padding-left: 45%;
+    }
 }
 
 @media screen and (max-width: 990px) {
